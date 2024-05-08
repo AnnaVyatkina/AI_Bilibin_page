@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--bg-main);
+    background-image: url('../assets/background1.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    width: 100%;
+}
