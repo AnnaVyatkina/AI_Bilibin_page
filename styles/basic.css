@@ -13,3 +13,12 @@ body {
     background-size: cover;
     width: 100%;
 }
+main {
+    width: 75%;
+    margin: 0 auto;
+    background-color:#f1eacd;
+    box-shadow: #9d010e4d 0px 1px 4px, #9d010eb5 0px 0px 0px 3px;
+}
+h1 {
+    text-align: center;
+}
